@@ -1,0 +1,270 @@
+.block {
+    display: block !important;
+}
+
+.yellow {
+    background-color: #f8d751 !important;
+}
+
+.search {
+    width: 100%;
+    height: 398px;
+    margin-top: 2px;
+}
+
+.search-img {
+    position: relative;
+    width: 1200px;
+    margin: 0 auto;
+    height: 398px;
+    overflow: hidden;
+}
+
+
+.search-img ul {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 99999%;
+    height: 100%;
+
+}
+
+.search-img ul li {
+    float: left;
+    width: 1200px;
+    height: 398px;
+    margin-top: 10px;
+}
+
+.search-img ol {
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    margin-left: -50px;
+}
+
+.search-img ol li {
+    display: inline-block;
+    border-radius: 50%;
+    width: 10px;
+    height: 10px;
+    background-color: #43594b;
+    margin: 0 5px 5px 0;
+}
+
+.newlist {
+    width: 100%;
+    height: 350px;
+    margin-bottom: 10px;
+}
+
+.newlist-warp {
+    height: 350px;
+}
+
+.newlist-left {
+    float: left;
+    width: 770px;
+    height: 350px;
+}
+
+.new-tit {
+    width: 100%;
+    height: 34px;
+    background-color: #f4f4f4;
+}
+
+.new-body {
+    width: 100%;
+    height: 312px;
+    padding-top: 10px;
+}
+
+.newlist-right {
+    float: left;
+    margin-left: 20px;
+    width: 380px;
+    height: 350px;
+}
+
+.tit-ico {
+    float: left;
+    width: 67px;
+    height: 17px;
+    background: url(../img/news_ico.png) no-repeat;
+    margin-top: 8px;
+    margin-left: 8px;
+}
+
+.tit {
+    border-top-color: #01539c !important;
+}
+
+.tit-header {
+    display: inline-block;
+    width: 102px;
+    height: 37px;
+    border-top: 3px solid #f4f4f4;
+
+}
+
+.new-tit a {
+    display: inline-block;
+    width: 102px;
+    height: 33px;
+    color: #000;
+    line-height: 33px;
+    text-align: center;
+    font-size: 18px;
+}
+
+.new-body-left {
+    float: left;
+    width: 380px;
+    height: 292px;
+    background: url(../img/cuowu_b.png) no-repeat 50% 50%;
+    background-size: contain;
+}
+
+.new-body-right {
+    float: left;
+    width: 380px;
+    height: 280px;
+    margin-left: 10px;
+}
+
+.tbody-wenzi {
+    height: 30px;
+    FONT-SIZE: 15px;
+    COLOR: #999;
+    LINE-HEIGHT: 150%;
+}
+
+.tbody-herf {
+    FONT-SIZE: 15px;
+    COLOR: #333;
+    LINE-HEIGHT: 150%;
+}
+
+.toubu {
+    width: 360px;
+    height: 40px;
+    margin: 0 auto;
+}
+
+.toubu a {
+    display: inline-block;
+    width: 157px;
+    height: 24px;
+    background: url(../img/notice_ico1.png) no-repeat;
+    text-align: right;
+    line-height: 18px;
+    font-size: 18px;
+    margin-top: 16px;
+}
+
+.renav {
+    height: 250px;
+    margin-bottom: 20px;
+}
+
+.rdzt,
+.ksdh,
+.mtpt {
+    float: left;
+    width: 380px;
+    height: 100%;
+}
+
+.ksdh,
+.mtpt {
+    margin-left: 30px;
+
+}
+
+.rdzt-tit {
+    width: 100%;
+    height: 36px;
+    border-bottom: 3px solid #e5e5e5;
+}
+
+.tit-font {
+    height: 100%;
+    width: 94px;
+    float: left;
+    font-size: 18px;
+    text-align: center;
+    line-height: 36px;
+    border-bottom: 3px solid #083465;
+}
+
+.tit-EN {
+    height: 100%;
+    width: 130px;
+    float: left;
+    padding-left: 15px;
+    font-size: 16px;
+    text-align: center;
+    line-height: 36px;
+    color: #e5e5e5;
+}
+
+.rdzt-box {
+    width: 100%;
+    height: 217px;
+}
+
+.rdzt .rdzt-box img {
+    margin-top: 15px;
+}
+
+.ksdh .rdzt-box a {
+    width: 85px;
+    height: 65px;
+    margin: 8px 0 0 30px;
+    float: left;
+    font-size: 15px;
+}
+
+.ksdh .rdzt-box a img {
+    width: 51px;
+    height: 38px;
+    margin-left: 12px;
+    text-align: center;
+}
+
+.ksdh .rdzt-box a span {
+    color: #333;
+    font-family: "微软雅黑";
+    text-decoration: none;
+    padding-left: 5px;
+    display: inline-block;
+}
+
+.rdzt-box-timg1 {
+    width: 180px;
+    height: 217px;
+    text-align: center;
+    float: left;
+}
+
+.marg30 {
+    margin-left: 20px;
+}
+
+.rdzt-box-timg1 img {
+    width: 150px;
+    height: 151px;
+    margin-top: 20px;
+}
+
+.rdzt-box-timg1 span {
+    width: 150px;
+    height: 30px;
+    font-family: "微软雅黑";
+    color: #333;
+    font-size: 18px;
+    display: inline-block;
+    padding-top: 10px;
+}
